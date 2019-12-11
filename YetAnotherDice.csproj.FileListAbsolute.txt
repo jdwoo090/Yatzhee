@@ -1,0 +1,9 @@
+C:\Users\jdwoo090\source\repos\YetAnotherDice\YetAnotherDice\obj\Debug\YetAnotherDice.csprojAssemblyReference.cache
+C:\Users\jdwoo090\source\repos\YetAnotherDice\YetAnotherDice\obj\Debug\YetAnotherDice.Properties.Resources.resources
+C:\Users\jdwoo090\source\repos\YetAnotherDice\YetAnotherDice\obj\Debug\YetAnotherDice.csproj.GenerateResource.cache
+C:\Users\jdwoo090\source\repos\YetAnotherDice\YetAnotherDice\bin\Debug\YetAnotherDice.exe.config
+C:\Users\jdwoo090\source\repos\YetAnotherDice\YetAnotherDice\bin\Debug\YetAnotherDice.exe
+C:\Users\jdwoo090\source\repos\YetAnotherDice\YetAnotherDice\bin\Debug\YetAnotherDice.pdb
+C:\Users\jdwoo090\source\repos\YetAnotherDice\YetAnotherDice\obj\Debug\YetAnotherDice.diceForm.resources
+C:\Users\jdwoo090\source\repos\YetAnotherDice\YetAnotherDice\obj\Debug\YetAnotherDice.exe
+C:\Users\jdwoo090\source\repos\YetAnotherDice\YetAnotherDice\obj\Debug\YetAnotherDice.pdb
